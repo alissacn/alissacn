@@ -12,7 +12,7 @@ I am Alissa, web development student from <img width="20" alt="image" src="https
 
  <img width="156" alt="image" src="https://github.com/alissacn/alissacn/assets/93337008/903d506d-857b-4279-926f-95f86bd6323f">
  <img width="143" alt="image" src="https://github.com/alissacn/alissacn/assets/93337008/291740e4-4547-4e7f-8ec5-c6aab4f860ec">
- <img width="143" height="105" alt="image" src="https://github.com/alissacn/alissacn/assets/93337008/799319e5-1063-4ddf-9fd1-d1d858100de3">
+ <img width="130" height="105" alt="image" src="https://github.com/alissacn/alissacn/assets/93337008/799319e5-1063-4ddf-9fd1-d1d858100de3">
 
 
 
